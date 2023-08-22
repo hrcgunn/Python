@@ -1,5 +1,5 @@
 # Write your code here :-)
->>>print('Hello, big dreamer')
+print('Hello, big dreamer')
 # This program says hello and asks for my name
 print('what is your name?') #asks for name
 myName = input()
